@@ -4,6 +4,9 @@
   <h3>Java Full Stack Developer | Spring Boot | Backend Engineer</h3>
 
   <p>
+    <a href="https://github.com/poojapatil0404/pooja">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
     <a href="https://linkedin.com/in/poojapatil0404">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
@@ -19,8 +22,8 @@
 
 ## 👨‍💻 Professional Summary
 A highly motivated and detail-oriented **Electronics and Communication Engineering graduate** with a strong foundation in **Java, SQL, HTML, CSS, and JavaScript**.  
-Passionate about **software development**, backend engineering, and building scalable applications.  
-Eager to learn, contribute to innovative projects, and grow in a collaborative development environment.
+Strong interest in **Java backend and full stack development**, with hands-on experience in building real-world applications using **Spring Boot and MySQL**.  
+Eager to learn, grow, and contribute to innovative software projects.
 
 ---
 
@@ -74,23 +77,25 @@ Eager to learn, contribute to innovative projects, and grow in a collaborative d
 
 ## 🚀 Projects
 
-### 🔊 Text-to-Speech Converter (2024)
-**Tech:** HTML | CSS | JavaScript  
-- Developed a Text-to-Speech Converter using browser **Speech Synthesis API**  
-- Designed a clean and user-friendly interface  
-- Implemented voice selection, pitch, and rate controls  
-- Improved accessibility by converting typed text into real-time speech  
-- Useful for visually impaired users and accessibility tools  
+### 🏨 <a href="https://github.com/poojapatil0404/pooja" target="_blank">Hotel Management System</a>
+**Tech:** Java | Spring Boot | MySQL | HTML | CSS  
+
+- Developed a complete Hotel Management System to manage rooms, customers, and bookings  
+- Implemented add, update, delete, and view operations  
+- Built backend REST APIs using Spring Boot  
+- Integrated MySQL database with optimized SQL queries  
+- Designed simple and user-friendly UI using HTML, CSS, and Thymeleaf  
+- Useful for hotels to efficiently manage reservations and customer records  
 
 ---
 
-### 🏨 Hotel Management System (2025)
-**Tech:** Java | Spring Boot | MySQL | HTML | CSS  
-- Designed a system to manage hotel rooms, customers, and bookings  
-- Implemented add, edit, delete operations for records  
-- Built backend using Spring Boot with MySQL database  
-- Created simple UI pages using **Thymeleaf**  
-- Improved efficiency in hotel reservation and customer management  
+### 🔊 Text-to-Speech Converter
+**Tech:** HTML | CSS | JavaScript  
+
+- Built a browser-based Text-to-Speech Converter using Speech Synthesis API  
+- Implemented voice selection, pitch, and speed controls  
+- Improved accessibility for visually impaired users  
+- Clean and responsive UI design  
 
 ---
 
@@ -100,11 +105,10 @@ Eager to learn, contribute to innovative projects, and grow in a collaborative d
 **Robowaves (Unit of Test Yantra Software Solutions)**  
 📅 Feb 2025 – May 2025  
 
-- Built responsive web applications using Java, Spring Boot, HTML, CSS, and JavaScript  
-- Developed RESTful backend APIs with Spring Boot  
-- Integrated MySQL database using optimized SQL queries  
-- Improved performance by optimizing database operations  
-- Gained real-world experience in full stack development  
+- Developed backend modules using Java and Spring Boot  
+- Built REST APIs for frontend integration  
+- Worked with MySQL and optimized SQL queries  
+- Gained real-world experience in agile development environment  
 
 ---
 
@@ -122,15 +126,18 @@ Eager to learn, contribute to innovative projects, and grow in a collaborative d
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="mailto:p.pooja0404@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://github.com/poojapatil0404/pooja">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/poojapatil0404">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:p.pooja0404@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 ### 🚀 Open to Java Backend & Full Stack Developer Opportunities  
-**Actively seeking Fresher / Entry-Level roles | Ready to learn & contribute**
+**Seeking Fresher / Entry-Level roles | Ready to learn, build, and grow**

@@ -12,17 +12,12 @@ Java Full Stack Developer | Spring Boot | React | MySQL
 </p>
 
 <p align="center">
-🌱 Passionate about building scalable applications • 💻 Clean & maintainable code • 🚀 Career-driven developer
-</p>
-
-<p align="center">
-🔗 <b>Featured Project:</b> 
-<a href="https://github.com/poojapatil0404/pooja">GitHub Project – POOJA</a>
+🌱 Passionate about scalable applications • 💻 Clean & maintainable code • 🚀 Career-driven developer
 </p>
 
 <hr/>
 
-<!-- ================= CORE SKILLS ================= -->
+<!-- ================= CORE EXPERTISE ================= -->
 ## 🧠 Core Expertise
 
 <table>
@@ -64,7 +59,7 @@ Java Full Stack Developer | Spring Boot | React | MySQL
 <!-- ================= PROJECTS ================= -->
 ## 🚀 Projects Showcase
 
-### 🏨 Hotel Management System  
+### 🏨 [Hotel Management System](https://github.com/poojapatil0404/pooja)
 **Spring Boot | MySQL**
 
 ✔ Room booking & availability management  
@@ -72,7 +67,8 @@ Java Full Stack Developer | Spring Boot | React | MySQL
 ✔ RESTful backend services  
 ✔ Database-driven architecture  
 
-📂 Repository: `Hotel-Management-System`
+🔗 **Project Repository:**  
+👉 https://github.com/poojapatil0404/pooja
 
 ---
 
@@ -96,8 +92,7 @@ Java Full Stack Developer | Spring Boot | React | MySQL
 ✔ Responsive & clean UI  
 ✔ Deployed using GitHub Pages  
 
-🔗 Live Project:  
-👉 https://github.com/poojapatil0404/pooja
+📂 Repository: `poojapatil0404.github.io`
 
 <hr/>
 
@@ -107,9 +102,9 @@ Java Full Stack Developer | Spring Boot | React | MySQL
 ### 🏢 Software Developer Trainee / Intern
 
 - Built full-stack applications using Java & Spring Boot  
-- Designed REST APIs consumed by frontend  
-- Worked with MySQL databases & queries  
-- Followed best coding & version control practices  
+- Designed REST APIs for frontend integration  
+- Worked with MySQL databases & optimized queries  
+- Followed Git & GitHub best practices  
 
 <hr/>
 

@@ -33,7 +33,7 @@ Eager to learn, grow, and contribute to innovative software projects.
 **Electronics and Communication Engineering**  
 📍 Bagalkot, India  
 📅 2021 – 2025  
-🎯 **CGPA:** 7.0 / 10  
+🎯 **CGPA:** 7.04 / 10  
 
 ---
 

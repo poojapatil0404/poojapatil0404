@@ -1,7 +1,8 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">👋 Pooja Prakash Patil</h1>
+
 <h3 align="center">
-Java Full Stack Developer • Spring Boot • React Developer
+Java Full Stack Developer | Spring Boot | React | MySQL
 </h3>
 
 <p align="center">
@@ -10,44 +11,34 @@ Java Full Stack Developer • Spring Boot • React Developer
   <img src="https://img.shields.io/badge/Open%20To%20Work-YES-success?style=for-the-badge" />
 </p>
 
-<hr/>
-
-## 👩‍💻 Who Am I?
-
-🎓 **Computer Science Graduate**  
-💼 **Java Full Stack Developer**  
-📍 **India**
-
-I design and develop **robust full-stack web applications** using **Java, Spring Boot, React, and MySQL**.  
-I focus on **clean code, scalability, and real-world problem solving**.
-
-> *“Write code that is simple, maintainable, and scalable.”*
+<p align="center">
+🚀 Building scalable web applications • 💡 Clean code enthusiast • 🎯 Career-focused developer
+</p>
 
 <hr/>
 
-## 🧠 What I’m Good At
+## 🧠 Core Expertise
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔹 Backend Expertise
-- Java & OOPs
-- Spring Boot
-- RESTful APIs
-- Hibernate & JPA
-- Exception Handling
-- MVC Architecture
+### 🔹 Backend Development
+- Java & OOP Concepts  
+- Spring Boot & REST APIs  
+- Hibernate / JPA  
+- MVC Architecture  
+- Exception Handling  
 
 </td>
 <td width="50%">
 
 ### 🔹 Frontend & Database
-- HTML5, CSS3, JavaScript
-- React JS
-- Responsive UI Design
-- MySQL Database
-- CRUD Operations
+- HTML5, CSS3, JavaScript  
+- React JS  
+- Responsive UI Design  
+- MySQL Database  
+- CRUD Operations  
 
 </td>
 </tr>
@@ -55,7 +46,7 @@ I focus on **clean code, scalability, and real-world problem solving**.
 
 <hr/>
 
-## 🛠 Tech Stack
+## 🛠 Technology Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,html,css,js,git,github,eclipse,postman" />
@@ -63,56 +54,55 @@ I focus on **clean code, scalability, and real-world problem solving**.
 
 <hr/>
 
-## 🚀 Featured Projects
+## 🚀 Projects Showcase
 
-### 🏨 Hotel Management System
+### 🏨 Hotel Management System  
 **Spring Boot | MySQL**
 
-✔ Room booking & management  
-✔ Customer & admin modules  
-✔ REST-based backend  
-✔ Database integration with MySQL  
+✔ Room booking & availability  
+✔ Admin & user modules  
+✔ RESTful backend services  
+✔ Database-driven design  
 
-📂 **Repository:** `Hotel-Management-System`
+📂 Repository: `Hotel-Management-System`
 
 ---
 
-### 🏦 Online Banking System
+### 🏦 Online Banking System  
 **Java | JSP | Servlets | MySQL**
 
-✔ Secure user authentication  
-✔ Account & transaction management  
-✔ MVC architecture  
-✔ Real-world banking use case  
+✔ Secure authentication  
+✔ Account & transaction handling  
+✔ MVC-based architecture  
+✔ Real-world banking flow  
 
-📂 **Repository:** `Online-Banking-System`
+📂 Repository: `Online-Banking-System`
 
 ---
 
-### 🛒 React Shopping Cart
+### 🛒 Shopping Cart Application  
 **React JS**
 
 ✔ Add-to-cart functionality  
-✔ State management using Hooks  
-✔ Clean UI & component structure  
+✔ React Hooks & state management  
+✔ Component-based UI  
 
-📂 **Repository:** `React-Shopping-Cart`
+📂 Repository: `React-Shopping-Cart`
 
 <hr/>
 
-## 💼 Internship / Experience
+## 💼 Experience & Training
 
-### 🏢 Software Developer Intern  
-**IT / Software Training Institute**
+### 🏢 Software Developer Trainee / Intern
 
 - Developed full-stack applications using Java & Spring Boot  
-- Worked with MySQL databases  
-- Implemented CRUD operations  
-- Gained hands-on real-time project experience  
+- Worked with relational databases (MySQL)  
+- Implemented CRUD operations & validations  
+- Hands-on experience with real-time projects  
 
 <hr/>
 
-## 📊 GitHub Insights
+## 📊 GitHub Performance
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pooja-patil&show_icons=true&theme=github_dark&hide_border=true"/>
@@ -125,15 +115,16 @@ I focus on **clean code, scalability, and real-world problem solving**.
 
 <hr/>
 
-## 🤝 Let’s Connect
+## 🤝 Connect With Me
 
 <p align="center">
-  📧 <b>Email</b>: poojaprakashpatil@email.com <br/>
-  🔗 <b>LinkedIn</b>: https://linkedin.com/in/pooja-patil
+📧 <b>Email</b>: poojaprakashpatil@email.com  
+<br/>
+🔗 <b>LinkedIn</b>: https://linkedin.com/in/pooja-patil
 </p>
 
 <hr/>
 
 <p align="center">
-🌟 <b>Actively seeking Java Full Stack / Backend Developer opportunities</b>
+🌟 <b>Open to Java Full Stack / Backend Developer opportunities</b>
 </p>

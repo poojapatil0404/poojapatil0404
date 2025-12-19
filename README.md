@@ -1,138 +1,136 @@
-<!-- ================= PROFILE HEADER ================= -->
-<h1 align="center">✨ Pooja Prakash Patil ✨</h1>
+<!-- PROFILE HEADER -->
+<div align="center">
+  <h1>👋 Pooja Prakash Patil</h1>
+  <h3>Java Full Stack Developer | Spring Boot | Backend Engineer</h3>
 
-<h3 align="center">
-Java Full Stack Developer | Spring Boot | React | MySQL
-</h3>
+  <p>
+    <a href="https://linkedin.com/in/poojapatil0404">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:p.pooja0404@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=poojapatil0404&style=for-the-badge&color=0d1117" />
-  <img src="https://img.shields.io/github/followers/poojapatil0404?style=for-the-badge&color=0d1117" />
-  <img src="https://img.shields.io/badge/Open%20To%20Work-YES-success?style=for-the-badge" />
-</p>
-
-<p align="center">
-🌱 Passionate about scalable applications • 💻 Clean & maintainable code • 🚀 Career-driven developer
-</p>
-
-<hr/>
-
-<!-- ================= CORE EXPERTISE ================= -->
-## 🧠 Core Expertise
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔹 Backend Development
-- Java & OOP Concepts  
-- Spring Boot & REST APIs  
-- Hibernate / JPA  
-- MVC & Layered Architecture  
-- Exception Handling  
-
-</td>
-<td width="50%">
-
-### 🔹 Frontend & Database
-- HTML5, CSS3, JavaScript  
-- React JS  
-- Responsive UI Design  
-- MySQL Database  
-- CRUD Operations  
-
-</td>
-</tr>
-</table>
-
-<hr/>
-
-<!-- ================= TECH STACK ================= -->
-## 🛠 Technology Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,html,css,js,git,github,eclipse,postman" />
-</p>
-
-<hr/>
-
-<!-- ================= PROJECTS ================= -->
-## 🚀 Projects Showcase
-
-### 🏨 [Hotel Management System](https://github.com/poojapatil0404/pooja)
-**Spring Boot | MySQL**
-
-✔ Room booking & availability management  
-✔ Admin & user modules  
-✔ RESTful backend services  
-✔ Database-driven architecture  
-
-🔗 **Project Repository:**  
-👉 https://github.com/poojapatil0404/pooja
+  <p>📍 Belagavi, India | 📞 +91 93804 26772</p>
+</div>
 
 ---
 
-### 🏦 Online Banking System  
-**Java | JSP | Servlets | MySQL**
-
-✔ Secure authentication & authorization  
-✔ Account & transaction management  
-✔ MVC-based architecture  
-✔ Real-world banking use case  
-
-📂 Repository: `Online-Banking-System`
+## 👨‍💻 Professional Summary
+A highly motivated and detail-oriented **Electronics and Communication Engineering graduate** with a strong foundation in **Java, SQL, HTML, CSS, and JavaScript**.  
+Passionate about **software development**, backend engineering, and building scalable applications.  
+Eager to learn, contribute to innovative projects, and grow in a collaborative development environment.
 
 ---
 
-### 🌐 Portfolio & Resume Website  
-**HTML | CSS | Bootstrap | JavaScript**
+## 🎓 Education
 
-✔ Professional GitHub-hosted portfolio  
-✔ Resume download option  
-✔ Responsive & clean UI  
-✔ Deployed using GitHub Pages  
+### 🎓 Basaveshwara Engineering College – BE  
+**Electronics and Communication Engineering**  
+📍 Bagalkot, India  
+📅 2021 – 2025  
+🎯 **CGPA:** 7.0 / 10  
 
-📂 Repository: `poojapatil0404.github.io`
+---
 
-<hr/>
+### 🏫 Prism College – Pre-University  
+📍 Dharwad, India  
+📅 2019 – 2021  
+🎯 **Grade:** 83.33%  
 
-<!-- ================= EXPERIENCE ================= -->
-## 💼 Experience & Training
+---
 
-### 🏢 Software Developer Trainee / Intern
+### 🏫 Karnataka High School – SSLC  
+📍 Hirebagewadi, India  
+📅 2019  
+🎯 **Grade:** 92%  
 
-- Built full-stack applications using Java & Spring Boot  
-- Designed REST APIs for frontend integration  
-- Worked with MySQL databases & optimized queries  
-- Followed Git & GitHub best practices  
+---
 
-<hr/>
+## 🛠 Technical Skills
 
-<!-- ================= GITHUB STATS ================= -->
-## 📊 GitHub Insights
+### 💻 Programming Languages
+- Java  
+- SQL  
+- HTML  
+- CSS  
+- JavaScript  
 
+### ⚙ Technologies & Frameworks
+- JDBC  
+- Hibernate  
+- Servlet  
+- Spring Boot  
+
+---
+
+## 💻 Tech Stack
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=poojapatil0404&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=poojapatil0404&theme=github-dark&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,eclipse" />
 </p>
 
+---
+
+## 🚀 Projects
+
+### 🔊 Text-to-Speech Converter (2024)
+**Tech:** HTML | CSS | JavaScript  
+- Developed a Text-to-Speech Converter using browser **Speech Synthesis API**  
+- Designed a clean and user-friendly interface  
+- Implemented voice selection, pitch, and rate controls  
+- Improved accessibility by converting typed text into real-time speech  
+- Useful for visually impaired users and accessibility tools  
+
+---
+
+### 🏨 Hotel Management System (2025)
+**Tech:** Java | Spring Boot | MySQL | HTML | CSS  
+- Designed a system to manage hotel rooms, customers, and bookings  
+- Implemented add, edit, delete operations for records  
+- Built backend using Spring Boot with MySQL database  
+- Created simple UI pages using **Thymeleaf**  
+- Improved efficiency in hotel reservation and customer management  
+
+---
+
+## 💼 Internship Experience
+
+### 👩‍💻 Full Stack Developer Intern  
+**Robowaves (Unit of Test Yantra Software Solutions)**  
+📅 Feb 2025 – May 2025  
+
+- Built responsive web applications using Java, Spring Boot, HTML, CSS, and JavaScript  
+- Developed RESTful backend APIs with Spring Boot  
+- Integrated MySQL database using optimized SQL queries  
+- Improved performance by optimizing database operations  
+- Gained real-world experience in full stack development  
+
+---
+
+## 📚 Courses & Training
+- **Java Full Stack Development** – JSpiders  
+
+---
+
+## 🌐 Languages Known
+- English  
+- Kannada  
+- Hindi  
+
+---
+
+## 🤝 Connect with Me
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poojapatil0404&theme=github_dark"/>
+  <a href="mailto:p.pooja0404@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/poojapatil0404">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
-<hr/>
+---
 
-<!-- ================= CONTACT ================= -->
-## 🤝 Let’s Connect
-
-<p align="center">
-📧 <b>Email</b>: poojaprakashpatil@email.com  
-<br/>
-🔗 <b>LinkedIn</b>: https://linkedin.com/in/pooja-patil
-</p>
-
-<hr/>
-
-<p align="center">
-🌟 <b>Open to Java Full Stack / Backend Developer roles</b>
-</p>
+### 🚀 Open to Java Backend & Full Stack Developer Opportunities  
+**Actively seeking Fresher / Entry-Level roles | Ready to learn & contribute**
